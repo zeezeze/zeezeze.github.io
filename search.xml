@@ -4,11 +4,49 @@
   
     
     <entry>
-      <title>Hello World</title>
+      <title>高数笔记</title>
+      <link href="/2022/10/15/gao-shu-bi-ji/"/>
+      <url>/2022/10/15/gao-shu-bi-ji/</url>
+      
+        <content type="html"><![CDATA[<h6 id="这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用"><a href="#这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用" class="headerlink" title="这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用"></a>这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用</h6>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 知识点 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇博客</title>
+      <link href="/2022/10/13/di-yi-pian-bo-ke/"/>
+      <url>/2022/10/13/di-yi-pian-bo-ke/</url>
+      
+        <content type="html"><![CDATA[<h3 id="成功搭建了第一篇博客，感谢VSJUN的支持"><a href="#成功搭建了第一篇博客，感谢VSJUN的支持" class="headerlink" title="成功搭建了第一篇博客，感谢VSJUN的支持"></a>成功搭建了第一篇博客，感谢<a href="https://si.shuomc.buzz/">VSJUN</a>的支持</h3><h2 id=""><a href="#" class="headerlink" title=""></a></h2><h4 id="第一篇博客想先记录编译博客所用到的markdown语言的语法"><a href="#第一篇博客想先记录编译博客所用到的markdown语言的语法" class="headerlink" title="第一篇博客想先记录编译博客所用到的markdown语言的语法"></a>第一篇博客想先记录编译博客所用到的markdown语言的语法</h4><p>首先markdown语言可用专门编译软件Typora编译</p><p>然后这个语言就是专门为了写博客而设计的</p><p>它的运算原理大概是允许人们使用易读易写的<a href="https://baike.baidu.com/item/%E7%BA%AF%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F/9862288?fromModule=lemma_inlink">纯文本格式</a>编写文档，然后转换成有效的 <a href="https://baike.baidu.com/item/XHTML/316621?fromModule=lemma_inlink">XHTML</a>（或者HTML）文档，这样记录文字也就简单且便捷</p><h6 id="然后下面是其语法"><a href="#然后下面是其语法" class="headerlink" title="然后下面是其语法"></a>然后下面是其语法</h6><pre class="line-numbers language-markdown" data-language="markdown"><code class="language-markdown">      <span class="token title important"><span class="token punctuation">#</span>空格文字是标题</span>      <span class="token bold"><span class="token punctuation">**</span><span class="token content">字体加粗</span><span class="token punctuation">**</span></span>      ==代码高亮==      <span class="token strike"><span class="token punctuation">~</span><span class="token content">字体删除（画个斜线）</span><span class="token punctuation">~</span></span>      <span class="token italic"><span class="token punctuation">*</span><span class="token content">斜体</span><span class="token punctuation">*</span></span>      ---或者**<span class="token italic"><span class="token punctuation">*</span><span class="token content">是分割线            超链接：      <span class="token url">[<span class="token content">文字</span>](<span class="token url">文字想链接到的地方</span>)</span>      ！<span class="token url">[<span class="token content">图片名字</span>](<span class="token url">图片路径</span>)</span>，前面名字后面连接            &gt;空格文字表示引用，可多个符号叠加 如： &gt;&gt;&gt; 引用文字      使用-或+或</span><span class="token punctuation">*</span></span>加空格表示无序列表      1.加空格表示有序列表      用<span class="token code-snippet code keyword">`文字`</span>表示行内代码块      用四个空格缩进表示代码块      <span class="token code keyword">      若想要表格效果可直接打      |商品|数量|单价|</span>|-|-------:|:------:||苹果|10|\$1||电脑|1|\$1000|流程图语法：name(命名)=&gt;type:describetype有以下：开始和结束：start end输入和输出：input output操作：operation条件：condition子程序：subroutine数学公式使用$表示，其中一个$表示在行内，两个$表示独占一行<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><table><thead><tr><th>商品</th><th align="right">数量</th><th align="center">单价</th></tr></thead><tbody><tr><td>苹果</td><td align="right">10</td><td align="center">$1</td></tr><tr><td>电脑</td><td align="right">1</td><td align="center">$1000</td></tr></tbody></table><p>详细markdown语法功能<a href="https://blog.csdn.net/afei__/article/details/80717153">可见</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Heello World</title>
       <link href="/2022/10/10/hello-world/"/>
       <url>/2022/10/10/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       

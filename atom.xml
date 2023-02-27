@@ -6,7 +6,7 @@
   <link href="http://zeezeze.github.io/atom.xml" rel="self"/>
   
   <link href="http://zeezeze.github.io/"/>
-  <updated>2022-10-15T02:57:14.354Z</updated>
+  <updated>2023-02-27T02:41:29.271Z</updated>
   <id>http://zeezeze.github.io/</id>
   
   <author>
@@ -17,24 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>高数笔记</title>
-    <link href="http://zeezeze.github.io/2022/10/15/gao-shu-bi-ji/"/>
-    <id>http://zeezeze.github.io/2022/10/15/gao-shu-bi-ji/</id>
+    <title>插画</title>
+    <link href="http://zeezeze.github.io/2023/02/27/cha-hua/"/>
+    <id>http://zeezeze.github.io/2023/02/27/cha-hua/</id>
+    <published>2023-02-27T02:29:20.000Z</published>
+    <updated>2023-02-27T02:41:29.271Z</updated>
+    
+    <content type="html"><![CDATA[<img src="D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\featureimages\2.jpg" alt="amiya" style="zoom:50%;"><img src="D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\featureimages\1.jpg" alt="maomi" style="zoom:110%;"><p><img src="D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\featureimages\0.jpg" alt="jaja"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;img src=&quot;D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\featureimages\2.jpg&quot; alt=&quot;amiya&quot; style=&quot;zoom:50%;&quot;&gt;
+
+&lt;img src=&quot;D:</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>临摹稿</title>
+    <link href="http://zeezeze.github.io/2022/10/15/hui-tu/"/>
+    <id>http://zeezeze.github.io/2022/10/15/hui-tu/</id>
     <published>2022-10-15T02:54:19.000Z</published>
-    <updated>2022-10-15T02:57:14.354Z</updated>
+    <updated>2023-02-27T02:43:01.412Z</updated>
     
-    <content type="html"><![CDATA[<h6 id="这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用"><a href="#这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用" class="headerlink" title="这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用"></a>这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用</h6>]]></content>
+    <content type="html"><![CDATA[<h6 id=""><a href="#" class="headerlink" title=""></a><img src="D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\tu\01e460e8c728c94800e7b98cc895d65.jpg" style="zoom:30%;"></h6><img src="D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\tu\3aaf8fdf5a24ff1e4eccfe8d5d3cfb5.jpg" style="zoom:40%;"><img src="D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\tu\66094e177291509553bd6f2bcdc3954.jpg" style="zoom:33%;"><img src="D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\tu\333698353d9fd02da09c1b452160e61.jpg" style="zoom:33%;"><img src="D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\tu\e1e51c5a16a91be758c95b86f7251a9.jpg" style="zoom:33%;">]]></content>
     
     
       
       
-    <summary type="html">&lt;h6 id=&quot;这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用&quot;&gt;&lt;a href=&quot;#这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用&quot; class=&quot;headerlink&quot; title=&quot;这篇博客主要用于记录高数中的关键知识点，适合于期末复习使用&quot;&gt;&lt;/a</summary>
+    <summary type="html">&lt;h6 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;D:\nodejs\blog\zee\themes\hexo-theme-matery-master\source\medias\tu\01e460e8</summary>
       
     
     
     
-    
-    <category term="知识点" scheme="http://zeezeze.github.io/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
     
   </entry>
   
@@ -43,9 +63,9 @@
     <link href="http://zeezeze.github.io/2022/10/13/di-yi-pian-bo-ke/"/>
     <id>http://zeezeze.github.io/2022/10/13/di-yi-pian-bo-ke/</id>
     <published>2022-10-13T12:11:15.000Z</published>
-    <updated>2022-10-19T12:08:35.078Z</updated>
+    <updated>2023-02-27T02:44:23.846Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="成功搭建了第一篇博客，感谢VSJUN的支持"><a href="#成功搭建了第一篇博客，感谢VSJUN的支持" class="headerlink" title="成功搭建了第一篇博客，感谢VSJUN的支持"></a>成功搭建了第一篇博客，感谢<a href="https://si.shuomc.buzz/">VSJUN</a>的支持</h3><h2 id=""><a href="#" class="headerlink" title=""></a></h2><h4 id="第一篇博客想先记录编译博客所用到的markdown语言的语法"><a href="#第一篇博客想先记录编译博客所用到的markdown语言的语法" class="headerlink" title="第一篇博客想先记录编译博客所用到的markdown语言的语法"></a>第一篇博客想先记录编译博客所用到的markdown语言的语法</h4><p>首先markdown语言可用专门编译软件Typora编译</p><p>然后这个语言就是专门为了写博客而设计的</p><p>它的运算原理大概是允许人们使用易读易写的<a href="https://baike.baidu.com/item/%E7%BA%AF%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F/9862288?fromModule=lemma_inlink">纯文本格式</a>编写文档，然后转换成有效的 <a href="https://baike.baidu.com/item/XHTML/316621?fromModule=lemma_inlink">XHTML</a>（或者HTML）文档，这样记录文字也就简单且便捷</p><h6 id="然后下面是其语法"><a href="#然后下面是其语法" class="headerlink" title="然后下面是其语法"></a>然后下面是其语法</h6><pre class="line-numbers language-markdown" data-language="markdown"><code class="language-markdown">      <span class="token title important"><span class="token punctuation">#</span>空格文字是标题</span>      <span class="token bold"><span class="token punctuation">**</span><span class="token content">字体加粗</span><span class="token punctuation">**</span></span>      ==代码高亮==      <span class="token strike"><span class="token punctuation">~</span><span class="token content">字体删除（画个斜线）</span><span class="token punctuation">~</span></span>      <span class="token italic"><span class="token punctuation">*</span><span class="token content">斜体</span><span class="token punctuation">*</span></span>      ---或者**<span class="token italic"><span class="token punctuation">*</span><span class="token content">是分割线            超链接：      <span class="token url">[<span class="token content">文字</span>](<span class="token url">文字想链接到的地方</span>)</span>      ！<span class="token url">[<span class="token content">图片名字</span>](<span class="token url">图片路径</span>)</span>，前面名字后面连接            &gt;空格文字表示引用，可多个符号叠加 如： &gt;&gt;&gt; 引用文字      使用-或+或</span><span class="token punctuation">*</span></span>加空格表示无序列表      1.加空格表示有序列表      用<span class="token code-snippet code keyword">`文字`</span>表示行内代码块      用四个空格缩进表示代码块      <span class="token code keyword">      若想要表格效果可直接打      |商品|数量|单价|</span>|-|-------:|:------:||苹果|10|\$1||电脑|1|\$1000|流程图语法：name(命名)=&gt;type:describetype有以下：开始和结束：start end输入和输出：input output操作：operation条件：condition子程序：subroutine数学公式使用$表示，其中一个$表示在行内，两个$表示独占一行<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><table><thead><tr><th>商品</th><th align="right">数量</th><th align="center">单价</th></tr></thead><tbody><tr><td>苹果</td><td align="right">10</td><td align="center">$1</td></tr><tr><td>电脑</td><td align="right">1</td><td align="center">$1000</td></tr></tbody></table><p>详细markdown语法功能<a href="https://blog.csdn.net/afei__/article/details/80717153">可见</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="成功搭建了第一篇博客，感谢VSJUN的支持"><a href="#成功搭建了第一篇博客，感谢VSJUN的支持" class="headerlink" title="成功搭建了第一篇博客，感谢VSJUN的支持"></a>成功搭建了第一篇博客，感谢<a href="https://si.shuomc.buzz/">VSJUN</a>的支持</h3><h2 id=""><a href="#" class="headerlink" title=""></a></h2><h4 id="第一篇博客想先记录编译博客所用到的markdown语言的语法"><a href="#第一篇博客想先记录编译博客所用到的markdown语言的语法" class="headerlink" title="第一篇博客想先记录编译博客所用到的markdown语言的语法"></a>第一篇博客想先记录编译博客所用到的markdown语言的语法</h4><p>markdown语言可用专门编译软件Typora编译</p><p>这个语言专门为了写博客而设计的</p><p>它的运算原理大概是允许人们使用易读易写的<a href="https://baike.baidu.com/item/%E7%BA%AF%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F/9862288?fromModule=lemma_inlink">纯文本格式</a>编写文档，然后转换成有效的 <a href="https://baike.baidu.com/item/XHTML/316621?fromModule=lemma_inlink">XHTML</a>（或者HTML）文档，这样记录文字也就简单且便捷</p><h6 id="下面是其语法"><a href="#下面是其语法" class="headerlink" title="下面是其语法"></a>下面是其语法</h6><pre class="line-numbers language-markdown" data-language="markdown"><code class="language-markdown">      <span class="token title important"><span class="token punctuation">#</span>空格文字是标题</span>      <span class="token bold"><span class="token punctuation">**</span><span class="token content">字体加粗</span><span class="token punctuation">**</span></span>      ==代码高亮==      <span class="token strike"><span class="token punctuation">~</span><span class="token content">字体删除（画个斜线）</span><span class="token punctuation">~</span></span>      <span class="token italic"><span class="token punctuation">*</span><span class="token content">斜体</span><span class="token punctuation">*</span></span>      ---或者**<span class="token italic"><span class="token punctuation">*</span><span class="token content">是分割线            超链接：      <span class="token url">[<span class="token content">文字</span>](<span class="token url">文字想链接到的地方</span>)</span>      ！<span class="token url">[<span class="token content">图片名字</span>](<span class="token url">图片路径</span>)</span>，前面名字后面连接            &gt;空格文字表示引用，可多个符号叠加 如： &gt;&gt;&gt; 引用文字      使用-或+或</span><span class="token punctuation">*</span></span>加空格表示无序列表      1.加空格表示有序列表      用<span class="token code-snippet code keyword">`文字`</span>表示行内代码块      用四个空格缩进表示代码块      <span class="token code keyword">      若想要表格效果可直接打      |商品|数量|单价|</span>|-|-------:|:------:||苹果|10|\$1||电脑|1|\$1000|流程图语法：name(命名)=&gt;type:describetype有以下：开始和结束：start end输入和输出：input output操作：operation条件：condition子程序：subroutine数学公式使用$表示，其中一个$表示在行内，两个$表示独占一行<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>生成出的表格样式如下</p><table><thead><tr><th>商品</th><th align="right">数量</th><th align="center">单价</th></tr></thead><tbody><tr><td>苹果</td><td align="right">10</td><td align="center">$1</td></tr><tr><td>电脑</td><td align="right">1</td><td align="center">$1000</td></tr></tbody></table><p>详细markdown语法功能<a href="https://blog.csdn.net/afei__/article/details/80717153">可见</a></p>]]></content>
     
     
       
